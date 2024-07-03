@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Web
 
-Olá, sou Lucas Tonolli, um programação web com uma grande vontade de aprender e melhorar. Com uma sólida base em linguagens como **HTML, CSS, JavaScript e PHP** estou comprometido em criar experiências envolventes e responsivas para os usuários.
+Olá, sou Lucas Tonolli, um programador com uma grande vontade de aprender e melhorar. Com uma sólida base em linguagens como **HTML, CSS, JavaScript e PHP** estou comprometido em criar experiências envolventes e responsivas para os usuários.
 
 ## Cursos
 [Udemy] (https://www.udemy.com/certificate/UC-965c7475-319f-4dc1-be32-98b883366554/)
