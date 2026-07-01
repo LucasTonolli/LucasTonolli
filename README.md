@@ -55,14 +55,3 @@ I build web solutions that solve real business problems: e-commerce platforms, S
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
----
-
-### GitHub stats
-
-<div align="center">
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTonolli&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTonolli&layout=compact&hide_border=true&langs_count=8)
-
-</div>
