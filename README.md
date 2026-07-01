@@ -5,8 +5,8 @@
 I build web solutions that solve real business problems: e-commerce platforms, SaaS products, marketplaces, and API integrations. 4+ years of experience turning complex requirements into functional, scalable applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tonolli/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://lucas-tonolli.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucastonolli973@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://dev.lucas-tonolli.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@lucas-tonolli.com.br)
 
 ---
 
